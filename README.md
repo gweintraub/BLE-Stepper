@@ -4,4 +4,4 @@ A simple PhoneGap app for running a stepper motor with Bluetooh LE. The RFduino 
 
 ![Main Page](img/Main_Page.PNG)
 
-![Detail Page](img/Detail.PNG)
+![Detail Page](img/Detail_Page.PNG)
